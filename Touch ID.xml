@@ -10,8 +10,8 @@
 # First, check if the system even supports Touch ID&#13;
 # If not, bail out and report unsupported.&#13;
 &#13;
-# https://github.com/Samstar777/Touch-ID&#13;
-# by Salim M. Ukani AKA Samstar777&#13;
+# https://github.com/lo-sahilp/Touch-ID&#13;
+# by Sahil Parmar&#13;
 &#13;
 #These parameters identify the relevant system information.&#13;
 macOSMAJOR=$(sw_vers -productVersion | cut -d'.' -f1) # Expected output: 10, 11, 12&#13;
